@@ -28,3 +28,4 @@ If we dump a text file containing the first sentence of Lorem Ipsum we get this:
 72 65 20 65 74 20 64 6f 6c 6f 72 65 20 6d 61 67 re et dolore mag
 6e 61 20 61 6c 69 71 75 61 0a 00 00 00 00 00 00 na aliqua.......
 ```
+This also works for binaries (for example, you can see a dump of dumpit).
